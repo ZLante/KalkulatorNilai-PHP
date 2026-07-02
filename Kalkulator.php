@@ -26,7 +26,7 @@ if ($nilai >= 85)
 echo "\n========================================\n";
 echo "           HASIL EVALUASI NILAI\n";
 echo "==========================================\n";
-echo "Siswa Atas  " . $nama . " mendapatkan nilai " . $nilai . ".\n";
+echo "Mahasiswa Atas  " . $nama . " mendapatkan nilai " . $nilai . ".\n";
 echo "Predikat : " . $predikat . "\n";
 echo "Status   : " . $status . "\n";
 echo "===========================================\n";
